@@ -11,8 +11,8 @@ jobs:
         uses: PabloLec/website-to-gif@2.1.5
         with:
           url: "https://lexgenius.s3.us-west-2.amazonaws.com/20240520/index.html"
-          window_width: 1920
-          window_heigh: 1080
+          window_width: 791.43
+          window_heigh: 500
           scroll_step: 15
           time_per_frame: 80
       - name: Commit file to GH repo
