@@ -13,7 +13,7 @@ jobs:
           url: "https://lexgenius.s3.us-west-2.amazonaws.com/index2.html"
           window_width: 1920
           window_heigh: 1080
-          scroll_step: 15
+          scroll_step: 5
           time_per_frame: 80
       - name: Commit file to GH repo1
         run: |
