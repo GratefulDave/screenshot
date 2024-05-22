@@ -13,8 +13,8 @@ jobs:
           url: "https://lexgenius.s3.us-west-2.amazonaws.com/index2.html"
           window_width: 1920
           window_heigh: 1080
-          scroll_step: 500
-          time_per_frame: 400
+          scroll_step: 600
+          time_per_frame: 200
       - name: Commit file to GH repo1
         run: |
           git config --global user.name "PabloLec/website-to-gif"
