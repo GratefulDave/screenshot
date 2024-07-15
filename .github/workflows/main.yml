@@ -13,8 +13,8 @@ jobs:
           url: "https://cdn.lexgenius.ai/20240712/ads/451833997641577.html"
           window-width: 428
           window-height: 926
-          final-width: 428
-          final-height: 926
+          final-width: 1920
+          final-height: 1080
           scroll_step: 15
           time_per_frame: 80
           
