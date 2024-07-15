@@ -11,8 +11,8 @@ jobs:
         uses: PabloLec/website-to-gif@2.1.5
         with:
           url: "https://cdn.lexgenius.ai/20240712/ads/451833997641577.html"
-          window-width: 1920
-          window-height: 1080
+          window-width: 428
+          window-height: 926
           final-width: 428
           final-height: 926
           scroll_step: 15
