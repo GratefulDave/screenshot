@@ -10,7 +10,7 @@ jobs:
       - name: Website to file
         uses: PabloLec/website-to-gif@2.1.5
         with:
-          url: "https://lexgenius.s3.us-west-2.amazonaws.com/Screenshot+2024-07-14+at+9.49.25%E2%80%AFPM.png"
+          url: "https://cdn.lexgenius.ai/20240712/ads/451833997641577.html"
           window_width: 428
           window_heigh: 926
           scroll_step: 15
